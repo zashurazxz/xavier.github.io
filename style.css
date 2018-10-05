@@ -104,9 +104,8 @@ h1:hover {
 /* footer and end content */
 footer {
   width: 100%;
-  position: static;
-  bottom: 20px;
-  margin-top: auto;
+  position: fixed;
+  bottom: 10px;
   display: flex;
   justify-content: space-around;
   align-items: center;
