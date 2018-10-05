@@ -36,15 +36,12 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  color: rgb(203, 71, 255);
 }
 
 .wrapper p{
   margin-left: 40px;
   margin-right: 20px;
-}
-
-h1:hover {
-  color: rgb(203, 71, 255);
 }
 
 
